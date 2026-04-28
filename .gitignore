@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# R
+.Rhistory
+.RData
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environment
+.env
+*.json
+!package.json
+
+# Credentials (important!)
+service-account-key*.json
+credentials*.json
