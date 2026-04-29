@@ -15,8 +15,6 @@ repo นี้คือโค้ดประกอบหนังสือ **ค
 
 โค้ดในนี้ใช้ทดลองรันได้เลย — แต่ **คำอธิบายว่าทำไม** ต้อง mask cloud แบบนี้, ทำไม scale 30m, ทำไมเลือก reducer ตัวนี้, รวมถึงทฤษฎี Remote Sensing และ Thai context อยู่ในหนังสือ
 
-**👉 [แจ้งเตือนตอนเปิด pre-order (ใส่ link form ตรงนี้)](https://forms.gle/your-form-id)**
-
 ติดตามข่าว: [Facebook Page: Geography Lounge](https://www.facebook.com/GeographyLounge)
 
 ---
