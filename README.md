@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/cover.jpg" alt="คู่มือ Google Earth Engine สำหรับงานภูมิสารสนเทศและ Big Data" width="420">
+</p>
+
 # คู่มือ Google Earth Engine สำหรับงานภูมิสารสนเทศและ Big Data
 
 > โค้ดประกอบหนังสือ **ฉบับปรับปรุง (Second Edition)** — อัปเดตครบ Landsat Collection 2, ระบบ Quota Tiers ใหม่ปี 2026, AI/ML และ Python ecosystem
